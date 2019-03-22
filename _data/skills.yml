@@ -1,0 +1,24 @@
+- name: 机械三维软件设计
+  keywords:
+      - UG
+      - Solidworks
+
+- name: 编程语言
+  keywords:
+      - C
+      - Html
+      - Java
+
+- name: 机电相关设计软件
+  keywords:
+      - AltiumDesigner
+      - keil
+      - RobotStudio
+      - Autocad
+      - Cura
+
+- name: 单片机
+  keywords:
+      - Arduino
+      - Raspberry pi
+      - Stm32
