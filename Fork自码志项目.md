@@ -1,6 +1,6 @@
-# 幽水蓼蓝
+# 码志
 
-我的个人博客：<https://blog.lanhonghao.cn>，欢迎 Star 和 Fork。
+我的个人博客：<https://mazhuang.org>，欢迎 Star 和 Fork。
 
 ## 概览
 
@@ -8,13 +8,17 @@
 
 * [效果预览](#效果预览)
 * [Fork 指南](#fork-指南)
+* [贴心提示](#贴心提示)
+* [经验与思考](#经验与思考)
 * [致谢](#致谢)
 
 <!-- vim-markdown-toc -->
 
 ## 效果预览
 
-**[在线预览 &rarr;](https://blog.lanhonghao.cn)**
+**[在线预览 &rarr;](https://mazhuang.org)**
+
+![screenshot home](https://mazhuang.org/assets/images/screenshots/home.png)
 
 ## Fork 指南
 
@@ -34,17 +38,7 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
    **评论模块：** 目前支持 disqus、gitment 和 gitalk，选用其中一种就可以了，推荐使用 gitalk。它们各自的配置指南链接在 \_config.yml 文件的 Comments 一节里都贴出来了。
 
-   **注意：** 如果使用 disqus，因为 disqus 处理用户名与域名白名单的策略存在缺陷，请一定将 disqus.username 修改成你自己的，否则请将该字段留空。
-
-   **Gitalk修改:**在 \_config.yml 文件的 Comments 一节里，Gitalk 需要一个 Github Application，[点击这里申请](https://github.com/settings/applications/new)。创建后，获取 `Client ID` 和 `Client Secret` 填入你的 Gitalk 参数中。然后创建blog_comment用于gitalk Issue的仓库。
-```
-# Gitalk 
-gitalk: 
-		clientID: 'clientID'    #OAuth Application
-		clientSecret: 'clientID'   #OAuth Application
-		repo: blog_comment仓库   #刚创建blog_comment用于gitalk Issue的仓库名称
-		owner: username    #github用户名
-```
+   **注意：** 如果使用 disqus，因为 disqus 处理用户名与域名白名单的策略存在缺陷，请一定将 disqus.username 修改成你自己的，否则请将该字段留空。我对该缺陷的记录见 [Issues#2][3]。
 
 4. 删除我的文章与图片。
 
@@ -59,7 +53,30 @@ gitalk:
 
    pages/about.md 文件内容对应网站的「关于」页面，里面的内容多为个人相关，将它们替换成你自己的信息，包括 \_data 目录下的 skills.yml 和 social.yml 文件里的数据。
 
+## 贴心提示
+
+1. 排版建议遵照一定的规范，推荐 [中文文案排版指北（简体中文版）][1]。
+
+2. 在本地预览博客效果可以参考 [Setting up your Pages site locally with Jekyll][2]。
+
+## 经验与思考
+
+* 简约，尽量每个页面都不展示多余的内容。
+
+* 有时一图抵千言，有时可能只会拖慢网页加载速度。
+
+* 言之有物，不做无痛之呻吟。
+
+* 如果写技术文章，那先将技术原理完全理清了再开始写，一边摸索技术一边组织文章效率较低。
+
+* 杜绝难断句、难理解的长句子，如果不能将其拆分成几个简洁的短句，说明脑中的理解并不清晰。
+
+* 可以学习一下那些高质量的博主，他们的行文，内容组织方式，有什么值得借鉴的地方。
 
 ## 致谢
 
-本博客Fork自[码志](https://mazhuang.org)项目，感谢！
+本博客外观基于 [DONGChuan](https://dongchuan.github.io) 修改，感谢！
+
+[1]: https://github.com/mzlogin/chinese-copywriting-guidelines
+[2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
+[3]: https://github.com/mzlogin/mzlogin.github.io/issues/2
