@@ -102,8 +102,8 @@ gitment:
         client_secret: df47630229c0a11b163cee983d502a315da54636
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: lanhonghao
-    repo: blog.lanhonghao.cn
+    owner: Lanhonghao
+    repo: blog_comment_gitalk
     clientID: 63ab4cc7bda84e58e49f
     clientSecret: df47630229c0a11b163cee983d502a315da54636
 # 在使用其它评论组件时可点击显示 Disqus
