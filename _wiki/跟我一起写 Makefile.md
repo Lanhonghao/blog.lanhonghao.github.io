@@ -1101,7 +1101,8 @@ make运行时的系统环境变量可以在make开始运行时被载入到Makefi
     bar.o : bar.c
             $(CC) $(CFLAGS) bar.c
 
-在这个示例中，不管全局的$(CFLAGS)的值是什么，在prog目标，以及其所引发的所有规则中（prog.o foo.o bar.o的规则），$(CFLAGS)的值都是“-g”
+在这个示例中，不管全局的$(CFLAGS)的值是什么，在prog目标，以及其所引发的所有规则中（prog.o foo.o bar.o的规则），$(CFLAGS)的值都是“-g”。
+
 
 ### 九、模式变量
 
