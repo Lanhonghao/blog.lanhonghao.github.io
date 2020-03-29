@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Arduino]温度传感器DHT11（控制代码+proteus仿真）
+title: [Arduino]温度传感器DHT11(控制代码+proteus仿真)
 categories: Arduino
 description: 温度传感器DHT11的arduino控制代码和proteus仿真，学习使用
 keywords: Arduino, 温度传感器, DHT11, proteus
