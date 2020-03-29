@@ -10,6 +10,10 @@ keywords: Arduino, 温度传感器, DHT11
 
 ![图片](https://uploader.shimo.im/f/kWspfOv3Dk8Uha0e.png!thumbnail)
 
+
+
+![图片](./2020-03-30-Arduino 温度传感器DHT11（控制代码+proteus仿真）/Arduino 温度传感器DHT11（protuse仿真）.png)
+
 Arduino控制代码如下：
 
 main.ino
