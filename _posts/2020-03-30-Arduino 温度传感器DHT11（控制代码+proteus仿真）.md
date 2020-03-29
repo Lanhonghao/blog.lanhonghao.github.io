@@ -181,5 +181,5 @@ int dht11::read(int pin)
 ```
 
 
-压缩包附件：
+压缩包附件：[下载地址](/attachment/posts/2020-03-30-Arduino-温度传感器DHT11-控制代码-proteus仿真/Arduino328-DHT11.rar)
 
