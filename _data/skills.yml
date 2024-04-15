@@ -1,24 +1,5 @@
-- name: 机械三维软件设计
+- name: 吃饭的活吧
   keywords:
-      - UG
-      - Solidworks
-
-- name: 编程语言
-  keywords:
-      - C
-      - Html
-      - Java
-
-- name: 机电相关设计软件
-  keywords:
-      - AltiumDesigner
-      - keil
-      - RobotStudio
+      - Creo
       - Autocad
-      - Cura
-
-- name: 单片机
-  keywords:
-      - Arduino
-      - Raspberry pi
-      - Stm32
+      - Office

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: 技术·生活
+description: 梦想·生活·工作
 keywords: lanhonghao, 蓝宏浩
 comments: true
 menu: 关于
