@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "f76795146c7baa04",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd3c6b26c2fc03f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9bcf543b84d9f69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-06-02-广东大地铁广东城际好用吗？.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f0b840f2236a189",
+    "type": "split",
+    "children": [
+      {
+        "id": "06978e11b7c58b5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd85a3d50fc3418b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "896220b6ab71236f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b055bedbb81427ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d6348d6f5b5c89d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "32965223a30c011d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bca4949dacb3eba5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2024-06-02-广东大地铁广东城际好用吗？.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9bab81a31d4cda71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2024-06-02-广东大地铁广东城际好用吗？.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5fb24b299334f95",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cb1ab49c12262f00",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2024-06-02-广东大地铁广东城际好用吗？.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d9bcf543b84d9f69",
+  "lastOpenFiles": [
+    "Pasted image 20240603001844.png",
+    "images/posts/2024-06-02-广东大地铁广东城际好用吗？/自助客服中心设备.jpg",
+    "images/posts/2024-06-02-广东大地铁广东城际好用吗？/007qGYI3gy1hqa89dby79j31900u0q9b.jpg",
+    "images/posts/2024-06-02-广东大地铁广东城际好用吗？/IMG_0892.JPEG",
+    "_posts/2024-06-02-广东大地铁广东城际好用吗？.md",
+    "images/posts/2024-06-02-广东大地铁广东城际好用吗？/IMG_0890.JPEG",
+    "images/posts/2024-06-02-广东大地铁广东城际好用吗？",
+    "images/posts/新建文件夹",
+    "_posts/2024-06-01-广东大地铁广东城际好用吗？.md"
+  ]
+}
